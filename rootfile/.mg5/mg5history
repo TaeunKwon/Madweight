@@ -1,0 +1,13 @@
+exit
+generate p p > t t~ , t > b l+ vl, t~ > b~ l- vl~
+output madweight MADWEIGHT2
+exit
+generate p p > t t~ , t > b l+ vl, t~ > b~ l- vl~
+output madweight MADWEIGHT2
+exit
+generate p p > t t~, t > b e+ ve, t~ > b~ mu- vm~
+output MADEVENT
+exit
+generate p p > t t~, t > b j j, t~ > b~ mu- vm~
+output MADEVENT2
+exit

@@ -1,0 +1,9 @@
+3
+Delphes=ON
+print_path=../cross_section_top.txt
+print_results=../cross_section_top.txt
+print_results --path=../cross_section_top.txt
+launch
+3
+set mt scan:range(148, 197, 1)
+exit
